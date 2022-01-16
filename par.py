@@ -13,10 +13,10 @@ else:
 # goes here
 
 # program for tables
-table2 = 2
+table = int(input("enter number"))
 
 for i in range(1,11):
-    j = table2 * i
-    print("2 *",i,"=",j)
+    j = table * i
+    print(table," *",i,"=",j)
     
     
