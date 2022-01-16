@@ -12,3 +12,14 @@ if number > 1:
             print(number,"is a prime number")
 else:
     print(number,"invalid")    
+
+# basic math
+
+num1 = 2
+num3 = 7
+
+#addition
+
+total = num1 + num3
+
+print(num1,"+",num3,"=",total)
