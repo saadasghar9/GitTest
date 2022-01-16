@@ -6,4 +6,17 @@ if (num % 2) == 0:
     print(num, "is a even number")
 else:
     print(num,"is a odd number")
+
+#code explaination
+
+# program for prime numbers
+# goes here
+
+# program for tables
+table2 = 2
+
+for i in range(1,11):
+    j = table2 * i
+    print("2 *",i,"=",j)
+    
     
