@@ -20,6 +20,11 @@ num3 = 7
 
 #addition
 
-total = num1 + num3
+addtotal = num1 + num3
 
-print(num1,"+",num3,"=",total)
+print(num1,"+",num3,"=",addtotal)
+
+# subtraction 
+
+subtotal = num1 - num3
+print(num1,"-",num3,"=",subtotal)
