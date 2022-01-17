@@ -1,0 +1,8 @@
+#hello.txt
+
+#ignore all .o extentions
+*.o 
+
+#*.[oa] ignore all .o and .a extention
+
+l?b.?xt
