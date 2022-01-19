@@ -1,4 +1,16 @@
 hey tgis not as x
 
+#git checkout -- file name dangerous remove all data
 hey this element is to be stached
 
+by git stash and git stash pop  use this command
+#clear delete stash by # git stash clear
+
+
+
+git reset 
+||
+staging -> modiefied
+
+git checkout --
+modiefied -> unmodified satge
