@@ -13,3 +13,4 @@ sleep = False
 Bromazepam = 3
 if Bromazepam < 2:
     sleep == True
+    print(1)
